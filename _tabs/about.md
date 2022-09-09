@@ -28,11 +28,11 @@ order: 4
 >> * <font color="DarkGray"><em><strong>DHCP, DNS, SAMBA, FTP, SSH, Telnet, HTTP, SMTP, POP, IMAP, ICMP, TCP/IP</strong></em>
 >
 >> ### **<strong><font color="DarkCyan">Information Security</font></strong>**
->> * <font color="DarkGray"><em><strong>Application Security</strong></em>
->> * <font color="DarkGray"><em><strong>Network Security</strong></em>
->> * <font color="DarkGray"><em><strong>OWASP TOP 10</strong></em>
->> * <font color="DarkGray"><em><strong>wireshark analysis</strong></em>
-
+> * <font color="DarkGray"><em><strong>Application Security</strong></em>
+> * <font color="DarkGray"><em><strong>Network Security</strong></em>
+> * <font color="DarkGray"><em><strong>OWASP TOP 10</strong></em>
+> * <font color="DarkGray"><em><strong>wireshark analysis</strong></em>
+>
 >>### **<strong><font color="DarkCyan">Operating System</font></strong>**
 >* <font color="DarkGray"><em><strong>Windows Server 2012 R2</strong></em>
 >* <font color="DarkGray"><em><strong>Kali linux</strong></em>
