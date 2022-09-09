@@ -49,7 +49,7 @@ order: 4
 > ## **<strong><font color="Brown">About the Blog</font></strong>**
 > * <font color="DarkGray"> <strong>Problem Solving</strong></font>
 > * <font color="DarkGray"> <strong>Ethical Hacking Tutorials</strong></font>
-> * <font color="DarkGray"> <strong>Problem Solving</strong></font>
+> * <font color="DarkGray"> <strong>Installing Services && Tools on Linux Distributions</strong></font>
 > * <font color="DarkGray"> <strong>Making Scripts With Various Languages </strong></font>
 > * <font color="DarkGray"><strong> CTF Challenge Walkthrough </strong></font>
 
