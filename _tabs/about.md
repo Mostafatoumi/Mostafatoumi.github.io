@@ -11,7 +11,7 @@ order: 4
 * <font color="DarkGray">Also i’ve a lot of experience and interest in the field of <strong>Cyber Security:Penetration Testing,Offensive-Deffensive Security</strong> </font>
 
 > ## **<strong><font color="Brown">My Template Resume</font></strong>**
-> * <a href="https://drive.google.com/file/d/1H6cGKowMtVAF8oS2lHDk6Kolex4211Wl/view" target="_blank">Mostafa Toumi Resume</a>
+> * <a href="https://drive.google.com/file/d/1H6cGKowMtVAF8oS2lHDk6Kolex4211Wl/view" target="_blank">Mostafa toumi</a>
 
 > ## **<strong><font color="Brown">Professional Certificate</font></strong>**
 > * <font color="DarkGray"> Bachelor of Science Physics : <em> July,2019</em></font>
@@ -47,7 +47,11 @@ order: 4
 > * <a href="https://www.hackthebox.com/home/users/profile/962022" target="_blank">My HackThe Box Profile</a>
 
 > ## **<strong><font color="Brown">About the Blog</font></strong>**
-> * <font color="DarkGray"> The purpose of this blog is essentially to document my journey, by uploading CTF writeups and showing case of anything i come accross in my studies that i find particularly interesting.</font>
+> * <font color="DarkGray"> <strong>Problem Solving</strong></font>
+> * <font color="DarkGray"> <strong>Ethical Hacking Tutorials</strong></font>
+> * <font color="DarkGray"> <strong>Problem Solving</strong></font>
+> * <font color="DarkGray"> <strong>Making Scripts With Various Languages </strong></font>
+> * <font color="DarkGray"><strong> CTF Challenge Walkthrough </strong></font>
 
 > ## **<strong><font color="Brown">Socials</font></strong>**
 > * <font color="DarkGray">You can find me on : </font>
