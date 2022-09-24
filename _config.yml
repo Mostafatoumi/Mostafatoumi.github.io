@@ -83,7 +83,7 @@ theme_mode: dark # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://pbs.twimg.com/profile_images/1568058899240026112/-tMsR9q4_400x400.jpg'
+avatar: 'https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/HighTech-profile.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
