@@ -3,11 +3,11 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-
+<img src="https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec02.gif" width="250" height="100">
 
 
 > ## **<strong><font color="Brown">About Me</font></strong>**
-> * <font color="DarkGray"><strong>Mostafa Toumi</strong>,Network Technician with experience of <strong>IT</strong>. Skilled in Network Security, Networking, Switching, Windows Server, Computer Hardware and Computer Repair.</font>
+> * <font color="DarkGray">My Name is <strong>Mostafa Toumi</strong>,Network Technician with experience of <strong>IT</strong>. Skilled in Network Security, Networking, Switching, Windows Server, Computer Hardware and Computer Repair.</font>
 * <font color="DarkGray">Also i’ve a lot of experience and interest in the field of <strong>Cyber Security:Penetration Testing,Offensive-Deffensive Security</strong> </font>
 
 > ## **<strong><font color="Brown">My Template Resume</font></strong>**
@@ -62,7 +62,7 @@ order: 4
 > ## **<strong><font color="Brown">Socials</font></strong>**
 > * <font color="DarkGray">You can find me on : </font>
 >   * <a href="https://www.linkedin.com/in/Mostafatoumi/" target="_blank">Linkedin</a>
->   * <a href="https://twitter.com/Mostafatoumi0" target="_blank">Twitter</a>
+>   * <a href="https://twitter.com/EmSec0" target="_blank">Twitter</a>
 >   * <a href="https://github.com/Mostafatoumi" target="_blank">GitHub</a>
 > * <font color="DarkGray">My Email Address : <em><strong>Mostafatoumi0@gmail.com</strong></em></font>
 > * <font color="DarkGray">If you have any questions about one of my writeups, please feel free to ping me.</font>
