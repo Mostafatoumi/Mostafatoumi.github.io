@@ -35,7 +35,7 @@ github:
   username: Mostafatoumi             # change to your github username
 
 twitter:
-  username: Mostafatoumi0          # change to your twitter username
+  username: EmSec0          # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,10 +44,10 @@ social:
   email: Mostafatoumi0@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Mostafatoumi0      # change to your twitter homepage
+    - https://twitter.com/EmSec0     # change to your twitter homepage
     - https://github.com/Mostafatoumi       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/toumi.66
+    - https://www.facebook.com/
     - https://www.linkedin.com/in/Mostafatoumi
 
 google_site_verification:               # fill in to your verification string
@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
+#img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 'https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec.png'
