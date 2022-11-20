@@ -3,8 +3,6 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-<img src="https://raw.githubusercontent.com/Mostafatoumi/mostafatoumi.io_img/main/emSec02.gif" width="250" height="100">
-
 
 > ## **<strong><font color="Brown">About Me</font></strong>**
 > * <font color="DarkGray">My Name is <strong>Mostafa Toumi</strong>,Network Technician with experience of <strong>IT</strong>. Skilled in Network Security, Networking, Switching, Windows Server, Computer Hardware and Computer Repair.</font>
