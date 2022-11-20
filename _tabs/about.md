@@ -41,6 +41,13 @@ order: 4
 > * <a href="https://www.credly.com/badges/4058813d-f135-4190-919c-a6905662169a/public_url" target="_blank">CCNA: Enterprise Networking, Security, and Automation</a>
 > * <a href="https://www.credly.com/badges/30bd4cb2-d56a-4540-9d7d-4124bb54e8b0/public_url" target="_blank">CCNA: Switching, Routing, and Wireless Essentials</a>
 > * <a href="https://www.credly.com/badges/60af3227-2de6-44bc-a863-340095a04aa9/public_url" target="_blank">CCNA: Introduction to Networks</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ODJEAYLIDZ.png" target="_blank"> Red Teaming</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XE9DBFSKCG.png" target="_blank"> Jr Penetration Tester</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZD4RACYLOF.png" target="_blank"> Web Fundamentals</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TOCILHYNSO.png" target="_blank"> CompTIA Pentest+</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S21DYWCH3R.png" target="_blank"> Pre Security</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TVBSSWOQXY.png" target="_blank"> Introduction to Cyber Security</a>
+> * <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GNZIZENJMR.png" target="_blank"> Complete Beginner</a>   
 > * <a href="https://drive.google.com/file/d/1o9wvtL0i4ChIdlCTkrVhWGMy55FhOVE5/view" target="_blank">	CCNA Security</a>
 > * <a href="https://drive.google.com/file/d/1PmBo2xUjN6bpbE26i7JMnbNG-4-luPNE/view" target="_blank">CLA - Programming Essentials in C</a>
 > * <a href="https://drive.google.com/file/d/1bGywmypJHFOWNT67aWEI7iazZAlpUhPO/view" target="_blank">IT Essentials: PC Hardware and Software</a>
